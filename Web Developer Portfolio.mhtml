@@ -1,0 +1,1296 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html
+Subject: Web Developer Portfolio
+Date: Sat, 8 Jul 2023 07:49:18 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--xX7hEO0lITmfoodfWzkG2KetwUGq0gF6ms7TcrOhKN----"
+
+
+------MultipartBoundary--xX7hEO0lITmfoodfWzkG2KetwUGq0gF6ms7TcrOhKN----
+Content-Type: text/html
+Content-ID: <frame-E5E1AE68C3D7F850BEC628E5E4E96D1E@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Web Developer Portfolio</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <h3>NILOY</h3>
+            <ul>
+                <li><a href=3D"http://127.0.0.1:5500/index.html">Portfolio<=
+/a></li>
+                <li><a href=3D"http://127.0.0.1:5500/index.html">Blog</a></=
+li>
+                <li><button type=3D"button">Hire me</button></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+
+    </main>
+    <footer>
+
+    </footer>
+<!-- Code injected by live-server -->
+
+
+<div id=3D"torrent-scanner-popup" style=3D"display: none;"><template shadow=
+mode=3D"open"><link rel=3D"stylesheet" href=3D"chrome-extension://aegnopegb=
+bhjeeiganiajffnalhlkkjb/css/custom.css"><div id=3D"yf-bt-wrapper" class=3D"=
+free"><div class=3D"header"><img class=3D"sts-logo" src=3D"chrome-extension=
+://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/ts-free-logo.png"><div class=
+=3D"search-content"><input id=3D"search-input" class=3D"search-input" type=
+=3D"search" placeholder=3D"Start your search here..."><span id=3D"search-bt=
+n" class=3D"search-btn"></span></div></div><div class=3D"container"><div cl=
+ass=3D"main-container"><div id=3D"torrent-data" class=3D"torrent-content"><=
+div class=3D"t-table"><div class=3D"t-header"><div class=3D"t-name">Torrent=
+ search results</div></div><div id=3D"checked-sites" class=3D"checked-sites=
+-section"><div class=3D"left">Checked Sites</div><div class=3D"right"><span=
+ id=3D"sites-count" class=3D"sites-count">0</span></div></div><div id=3D"ta=
+ble-body" class=3D"t-body"><div id=3D"loading" class=3D"spinner"><div class=
+=3D"bounce1"></div><div class=3D"bounce2"></div><div class=3D"bounce3"></di=
+v></div><div class=3D"table-message-container" id=3D"table-message"><p>No i=
+tems to list <br> Use the search bar above for instant results</p></div></d=
+iv></div></div><div class=3D"tooltip"><p class=3D"tooltip-text">To see sear=
+ch results, type here and hit `Enter`</p></div><div class=3D"footer"><span>=
+<span id=3D"numberScanned" class=3D"numberScanned">No results</span></span>=
+</div><div class=3D"upgradeProPanel"><div class=3D"upgradeProPanelTitle">Tr=
+y our Pro Versions to unlock:</div><div class=3D"upgradeProPanelList"><div>=
+<p>Faster Results</p></div><div><p>Secure Torrenting</p></div><div><p>Unlim=
+ited Search Results with detailed torrent info</p></div><div><p>1-YR Subscr=
+iption to CyberGhost VPN <span style=3D"font-size:8px;">(PRO+VPN only)</spa=
+n></p></div></div><a class=3D"upgrade-to-pro-button-2" id=3D"buy-pro-vpn" h=
+ref=3D"https://www.utorrent.com/webpro-offer/?utm_source=3DLavasoft&amp;utm=
+_medium=3Dversion_1.0&amp;utm_campaign=3DScanner" target=3D"_blank">BUY PRO=
+ + VPN</a><a class=3D"upgrade-to-pro-button-2" id=3D"buy-pro" href=3D"https=
+://www.utorrent.com/webpro-offer/?utm_source=3DLavasoft&amp;utm_medium=3Dve=
+rsion_1.0&amp;utm_campaign=3DScanner" target=3D"_blank">BUY PRO</a></div></=
+div><div class=3D"sync-container nav-se-container"><div class=3D"nav-se-con=
+tent"><img class=3D"sync-icon nav-se-icon" src=3D"chrome-extension://aegnop=
+egbbhjeeiganiajffnalhlkkjb/img/assets/icon-sync.svg"><div class=3D"nav-se-t=
+itle">One more step to go before you start torrenting!</div><p class=3D"nav=
+-se-text">This extension can sync results with BitTorrent and/or uTorrent f=
+or instant downloading.</p><p class=3D"nav-se-text">To activate this featur=
+e, please click on the button below, and then on the Chrome message to acti=
+vate the 'Messaging Permission'.</p><button class=3D"sync-permission-btn na=
+v-se-btn">Activate Messaging Permission</button></div><div class=3D"nav-se-=
+content display-none"><img class=3D"sync-icon nav-se-icon" src=3D"chrome-ex=
+tension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-sync.svg"><div c=
+lass=3D"nav-se-title">Syncing...</div><p class=3D"nav-se-text">Please allow=
+ Messaging Permissions in the proceeding Chrome message.</p></div><div clas=
+s=3D"nav-se-content display-none"><img class=3D"sync-icon nav-se-icon" src=
+=3D"chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-suc=
+cess.svg"><div class=3D"nav-se-title">Sync Complete</div><p class=3D"nav-se=
+-text">You have successfully activated the =E2=80=9CMessaging Permission=E2=
+=80=9D feature. All your search results will sync with BitTorrent and/or uT=
+orrent.</p></div></div><div class=3D"license-container nav-se-container"><d=
+iv class=3D"nav-se-content"><img class=3D"nav-se-icon" src=3D"chrome-extens=
+ion://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-key2.svg"><div class=
+=3D"nav-se-title">Enter License Key</div><p class=3D"nav-se-text">Enter you=
+r license key and click on the activate button to start using <span>=C2=B5T=
+orrent Web Pro.</span></p><input type=3D"text" id=3D"license-input-key" cla=
+ss=3D"license-input-key" placeholder=3D"Enter Key"><div class=3D"license-sp=
+inner"><div class=3D"bounce1"></div><div class=3D"bounce2"></div><div class=
+=3D"bounce3"></div></div><button id=3D"license-activate-button" class=3D"li=
+cense-activate-button nav-se-btn">Activate</button><p>Don't have a license =
+key? <a class=3D"license-buy-link" target=3D"_blank">Click here</a></p></di=
+v><div class=3D"nav-se-content display-none"><img class=3D"nav-se-icon" src=
+=3D"chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-suc=
+cess.svg"><div class=3D"nav-se-title">Happy Torrenting!</div><p class=3D"na=
+v-se-text">You are now an active PRO user</p><p class=3D"nav-se-text">Your =
+key is valid until <span class=3D"expiry-date"></span></p></div><div class=
+=3D"nav-se-content display-none"><img class=3D"nav-se-icon" src=3D"chrome-e=
+xtension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-alert.svg"><div=
+ class=3D"nav-se-title">Your license key has expired</div><p class=3D"nav-s=
+e-text">Looks like your license key has expired, to renew your PRO license =
+key, please select a license type:</p><a class=3D"upgrade-to-pro-button-2 b=
+uy-license-expiry-button" href=3D"https://www.utorrent.com/webpro-offer/?ut=
+m_source=3DLavasoft&amp;utm_medium=3Dversion_1.0&amp;utm_campaign=3DScanner=
+" target=3D"_blank">Buy Pro + VPN</a><a class=3D"upgrade-to-pro-button-2 bu=
+y-license-expiry-button" href=3D"https://www.utorrent.com/webpro-offer/?utm=
+_source=3DLavasoft&amp;utm_medium=3Dversion_1.0&amp;utm_campaign=3DScanner"=
+ target=3D"_blank">Buy Pro</a><p class=3D"nav-se-text">Already have a licen=
+se key? <a class=3D"link" id=3D"show-license-panel">Click here</a></p></div=
+><div class=3D"nav-se-content display-none"><img class=3D"nav-se-icon" src=
+=3D"chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-suc=
+cess.svg"><div class=3D"nav-se-title">Pro User</div><p class=3D"nav-se-text=
+">Your key is valid until <span class=3D"expiry-date"></span></p><p class=
+=3D"nav-se-text">Your License Key:</p><p class=3D"nav-se-text"></p><p class=
+=3D"nav-se-text margin-top-50">Switch back to Torrent Scanner Free?</p><but=
+ton class=3D"activate-free-btn nav-se-btn">Revert to Free Version</button><=
+/div></div><div class=3D"feedback-container nav-se-container"><div class=3D=
+"nav-se-content"><img class=3D"nav-se-icon" src=3D"chrome-extension://aegno=
+pegbbhjeeiganiajffnalhlkkjb/img/assets/icon-feedback.svg"><div class=3D"nav=
+-se-title">Feedback</div><p class=3D"nav-se-text">Help us improve Torrent S=
+canner, send us comments, bugs, feedback, and suggestions.</p><button id=3D=
+"feedback-button" class=3D"feedback-button nav-se-btn">Send Feedback</butto=
+n></div></div><div class=3D"settings-container nav-se-container"><div class=
+=3D"nav-se-content"><div class=3D"settings-title">Settings</div></div><div =
+class=3D"s-table"><div class=3D"s-row"><div class=3D"s-title">FAQ<div class=
+=3D"s-arrow"><span class=3D"arrow-down"></span></div></div><div class=3D"s-=
+content faq-content"><p class=3D"faq-text">FAQ: <a href=3D"chrome-extension=
+://aegnopegbbhjeeiganiajffnalhlkkjb/faq.html" target=3D"_blank">Click here<=
+/a></p></div></div><div class=3D"s-row"><div class=3D"s-title">Rate the ext=
+ension<div class=3D"s-arrow"><span class=3D"arrow-down"></span></div></div>=
+<div class=3D"s-content"><p class=3D"rate-text">How did you like the extens=
+ion experience?</p><div class=3D"rating"><span class=3D"rating-star">=E2=98=
+=85</span><span class=3D"rating-star">=E2=98=85</span><span class=3D"rating=
+-star">=E2=98=85</span><span class=3D"rating-star">=E2=98=85</span><span cl=
+ass=3D"rating-star">=E2=98=85</span></div><button class=3D"rating-btn nav-s=
+e-btn" disabled=3D"">Submit</button></div></div><div class=3D"s-row"><div c=
+lass=3D"s-title">About<div class=3D"s-arrow"><span class=3D"arrow-down"></s=
+pan></div></div><div class=3D"s-content about-content"><div class=3D"about-=
+version">Version 1.3.0 <br><br> What's New</div><div class=3D"about-new"><p=
+></p><ul><li>Experience a complete new User Interface of the extension. It =
+is enhanced and user friendly now.</li><li>Squashed some bugs.</li></ul><p>=
+</p></div></div></div><div class=3D"s-row"><div class=3D"s-title">Privacy P=
+olicy<div class=3D"s-arrow"><span class=3D"arrow-down"></span></div></div><=
+div class=3D"s-content"><div class=3D"policy-text">Adaware Software (727035=
+6 Canada Inc.) is the operator of the Adaware products suites and related s=
+ervices (the =E2=80=9C<b>Company</b>=E2=80=9D, =E2=80=9D<b>we</b>=E2=80=9D =
+or =E2=80=9C<b>us</b>=E2=80=9D). We respect your privacy rights and we are =
+committed to protecting them. This privacy policy (=E2=80=9C<b>Privacy Poli=
+cy</b>=E2=80=9D or simply =E2=80=9C<b>policy</b>=E2=80=9D) governs our prod=
+ucts, services and websites that link to this Privacy Policy, and describes=
+ our practices of processing data from you. By =E2=80=9C<b>you</b>=E2=80=9D=
+, we refer to either or all of the following: (i) visitors to our websites =
+that links to this Privacy Policy (=E2=80=9C<b>Visitor</b>=E2=80=9D and =E2=
+=80=9C<b>Website</b>=E2=80=9D, respectively); (ii) our customers using our =
+software products and Services (=E2=80=9C<b>User</b>=E2=80=9D); and (c) a b=
+usiness customer, a business partner that has a contractual relationship wi=
+th us or a prospective customer that is yet to be engaged in a contract wit=
+h us (=E2=80=9CBusiness Customer=E2=80=9D). Unless explicitly mentioned oth=
+erwise, the information in this Privacy Policy refers to any and all data s=
+ubject types (=E2=80=9Cyou=E2=80=9D or =E2=80=9Cyour=E2=80=99). <br><br> Fo=
+r the purpose of this policy, the =E2=80=9C<b>Service(s)</b>=E2=80=9D shall=
+ include any software licensed by the Company, including features offered b=
+y or within the installed software or additional software scripts available=
+ therein (either downloaded from one of our websites, pre-installed on your=
+ device, downloaded through a third party website, obtained on a physical m=
+edium, or otherwise), or services provided through and/or on top such softw=
+are, services offered on our websites, communication forums, support servic=
+es, account operation, updates, enhancements, new features, premium support=
+, extended guarantees, online version and free versions of a software or ad=
+ditional services or features as we ay make available from time to time. <b=
+r><br> If you are a California resident, please also see our <a href=3D"htt=
+ps://www.adaware.com/CCPA/" target=3D"_blank">CCPA Notice</a>. <br><br> <a =
+href=3D"https://www.adaware.com/privacy-policy/" target=3D"_blank">Read mor=
+e</a></div></div></div><div class=3D"s-row" style=3D"display: none;"><div c=
+lass=3D"s-title">Contact Us<div class=3D"s-arrow"><span class=3D"arrow-down=
+"></span></div></div><div class=3D"s-content"><div class=3D"contact-text">F=
+or any payment and order-related support, please contact us at Email: <a hr=
+ef=3D"mailto:support@torrentscanner.zendesk.com">support@torrentscanner.zen=
+desk.com</a> or <a href=3D"mailto:pcsoftwareinfo.com">pcsoftwareinfo.com</a=
+><br><br>Phone: <a href=3D"https://pcsoftwareinfo.com/contact.aspx" target=
+=3D"_blank">Click here</a></div></div></div></div></div></div><div class=3D=
+"nav"><button id=3D"btnSync" class=3D"nav-btn">Sync</button><button id=3D"b=
+tnLicense" class=3D"nav-btn">License</button><button id=3D"btnHome" class=
+=3D"nav-btn">Home</button><button id=3D"btnFeedback" class=3D"nav-btn">Feed=
+back</button><button id=3D"btnSettings" class=3D"nav-btn">Settings</button>=
+</div></div></template></div></body></html>
+------MultipartBoundary--xX7hEO0lITmfoodfWzkG2KetwUGq0gF6ms7TcrOhKN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/css/custom.css
+
+@charset "utf-8";
+
+@font-face { font-family: LatoRegular; src: url("../css/fonts/Lato-Regular.=
+ttf"); }
+
+@font-face { font-family: LatoBold; src: url("../css/fonts/Lato-Bold.ttf");=
+ }
+
+.text-bold { font-weight: 700; }
+
+.margin-top-50 { margin-top: 50px; }
+
+#torrent-scanner-popup { color: unset; font: unset; font-palette: unset; fo=
+nt-synthesis: unset; forced-color-adjust: unset; text-orientation: unset; t=
+ext-rendering: unset; -webkit-font-smoothing: unset; -webkit-locale: unset;=
+ -webkit-text-orientation: unset; -webkit-writing-mode: unset; writing-mode=
+: unset; zoom: unset; accent-color: unset; place-content: unset; place-item=
+s: unset; place-self: unset; alignment-baseline: unset; animation-compositi=
+on: unset; animation: unset; app-region: unset; appearance: unset; aspect-r=
+atio: unset; backdrop-filter: unset; backface-visibility: unset; background=
+-attachment: unset; background-blend-mode: unset; background-clip: unset; b=
+ackground-color: transparent; background-image: unset; background-origin: u=
+nset; background-position: unset; background-repeat: unset; background-size=
+: unset; baseline-shift: unset; baseline-source: unset; block-size: unset; =
+border-block: unset; border: unset; border-radius: 1px; border-collapse: un=
+set; border-end-end-radius: unset; border-end-start-radius: unset; border-i=
+nline: unset; border-start-end-radius: unset; border-start-start-radius: un=
+set; bottom: unset; box-shadow: unset; box-sizing: unset; break-after: unse=
+t; break-before: unset; break-inside: unset; buffered-rendering: unset; cap=
+tion-side: unset; caret-color: unset; clear: unset; clip: unset; clip-path:=
+ unset; clip-rule: unset; color-interpolation: unset; color-interpolation-f=
+ilters: unset; color-rendering: unset; color-scheme: unset; columns: unset;=
+ column-fill: unset; gap: unset; column-rule: unset; column-span: unset; co=
+ntain: unset; contain-intrinsic-block-size: unset; contain-intrinsic-size: =
+unset; contain-intrinsic-inline-size: unset; container: unset; content: uns=
+et; content-visibility: unset; counter-increment: unset; counter-reset: uns=
+et; counter-set: unset; cursor: unset; cx: unset; cy: unset; d: unset; disp=
+lay: unset; dominant-baseline: unset; empty-cells: unset; fill: unset; fill=
+-opacity: unset; fill-rule: unset; filter: unset; flex: unset; flex-flow: u=
+nset; float: unset; flood-color: unset; flood-opacity: unset; grid: unset; =
+grid-area: unset; height: auto; hyphenate-character: unset; hyphenate-limit=
+-chars: unset; hyphens: unset; image-orientation: unset; image-rendering: u=
+nset; initial-letter: unset; inline-size: unset; inset-block: unset; inset-=
+inline: unset; isolation: unset; left: unset; letter-spacing: unset; lighti=
+ng-color: unset; line-break: unset; list-style: unset; margin-block: unset;=
+ margin: unset; margin-inline: unset; marker: unset; mask: unset; mask-type=
+: unset; math-depth: unset; math-shift: unset; math-style: unset; max-block=
+-size: unset; max-height: unset; max-inline-size: unset; max-width: unset; =
+min-block-size: unset; min-height: unset; min-inline-size: unset; min-width=
+: unset; mix-blend-mode: unset; object-fit: unset; object-position: unset; =
+object-view-box: unset; offset: unset; opacity: unset; order: unset; orphan=
+s: unset; outline: unset; outline-offset: unset; overflow-anchor: unset; ov=
+erflow-clip-margin: unset; overflow-wrap: unset; overflow: unset; overscrol=
+l-behavior-block: unset; overscroll-behavior-inline: unset; overscroll-beha=
+vior: unset; padding-block: unset; padding: unset; padding-inline: unset; p=
+age: unset; page-orientation: unset; paint-order: unset; perspective: unset=
+; perspective-origin: unset; pointer-events: unset; position: fixed !import=
+ant; quotes: unset; r: unset; resize: unset; right: 1px !important; rotate:=
+ unset; ruby-position: unset; rx: unset; ry: unset; scale: unset; scroll-be=
+havior: unset; scroll-margin-block: unset; scroll-margin: unset; scroll-mar=
+gin-inline: unset; scroll-padding-block: unset; scroll-padding: unset; scro=
+ll-padding-inline: unset; scroll-snap-align: unset; scroll-snap-stop: unset=
+; scroll-snap-type: unset; scrollbar-gutter: unset; shape-image-threshold: =
+unset; shape-margin: unset; shape-outside: unset; shape-rendering: unset; s=
+ize: unset; speak: unset; stop-color: unset; stop-opacity: unset; stroke: u=
+nset; stroke-dasharray: unset; stroke-dashoffset: unset; stroke-linecap: un=
+set; stroke-linejoin: unset; stroke-miterlimit: unset; stroke-opacity: unse=
+t; stroke-width: unset; tab-size: unset; table-layout: unset; text-align: u=
+nset; text-align-last: unset; text-anchor: unset; text-combine-upright: uns=
+et; text-decoration: unset; text-decoration-skip-ink: unset; text-emphasis:=
+ unset; text-emphasis-position: unset; text-indent: unset; text-overflow: u=
+nset; text-shadow: unset; text-size-adjust: unset; text-transform: unset; t=
+ext-underline-offset: unset; text-underline-position: unset; white-space: u=
+nset; top: 1px !important; touch-action: unset; transform: unset; transform=
+-box: unset; transform-origin: unset; transform-style: unset; transition: u=
+nset; translate: unset; user-select: unset; vector-effect: unset; vertical-=
+align: unset; view-transition-name: unset; visibility: unset; border-spacin=
+g: unset; -webkit-box-align: unset; -webkit-box-decoration-break: unset; -w=
+ebkit-box-direction: unset; -webkit-box-flex: unset; -webkit-box-ordinal-gr=
+oup: unset; -webkit-box-orient: unset; -webkit-box-pack: unset; -webkit-box=
+-reflect: unset; -webkit-highlight: unset; -webkit-line-break: unset; -webk=
+it-line-clamp: unset; -webkit-mask-box-image: unset; -webkit-mask: unset; -=
+webkit-mask-composite: unset; -webkit-print-color-adjust: unset; -webkit-rt=
+l-ordering: unset; -webkit-ruby-position: unset; -webkit-tap-highlight-colo=
+r: unset; -webkit-text-combine: unset; -webkit-text-decorations-in-effect: =
+unset; -webkit-text-fill-color: unset; -webkit-text-security: unset; -webki=
+t-text-stroke: unset; -webkit-user-drag: unset; -webkit-user-modify: unset;=
+ widows: unset; width: auto; will-change: unset; word-break: unset; word-sp=
+acing: unset; x: unset; y: unset; z-index: 99999999 !important; }
+
+#yf-bt-wrapper, #yf-bt-wrapper .header { text-align: left; width: 366px; pa=
+dding: 0px; }
+
+#yf-bt-wrapper { font: 13px / 18px LatoRegular, sans-serif; margin: 0px; ba=
+ckground: rgb(255, 255, 255); }
+
+#yf-bt-wrapper h1, #yf-bt-wrapper h2 { font-size: 22px; color: rgb(0, 0, 0)=
+; }
+
+#yf-bt-wrapper h1 { font-family: LatoBold, sans-serif; }
+
+#yf-bt-wrapper h2, #yf-bt-wrapper p { font-family: LatoRegular, sans-serif;=
+ }
+
+#yf-bt-wrapper p { font-size: 14px; color: rgb(51, 51, 51); }
+
+#yf-bt-wrapper button:disabled { background-color: rgb(204, 204, 204) !impo=
+rtant; cursor: unset !important; border: 1px solid rgb(204, 204, 204) !impo=
+rtant; }
+
+#yf-bt-wrapper .container, #yf-bt-wrapper .footer, #yf-bt-wrapper .nav { bo=
+rder-bottom: 1px solid rgb(222, 222, 222); border-left: 1px solid rgb(222, =
+222, 222); border-right: 1px solid rgb(222, 222, 222); }
+
+#yf-bt-wrapper .display-none { display: none; }
+
+#yf-bt-wrapper .bg-white { background: rgb(255, 255, 255); }
+
+#yf-bt-wrapper .header { position: relative; height: 50px; margin: auto; bo=
+rder-top: 1px solid rgb(222, 222, 222); border-left: 1px solid rgb(222, 222=
+, 222); border-right: 1px solid rgb(222, 222, 222); background: radial-grad=
+ient(closest-side at 50% 50%, rgb(101, 101, 101) 0px, rgb(41, 41, 41) 100%)=
+ no-repeat padding-box padding-box; }
+
+#yf-bt-wrapper .sts-logo { max-height: 38px; margin: 8px 10px 0px 8px; widt=
+h: auto; }
+
+#yf-bt-wrapper .container { width: 366px; position: relative; margin: 0px a=
+uto; background: rgb(255, 255, 255); }
+
+#yf-bt-wrapper .main-container { min-height: 450px; padding-bottom: 25px; }
+
+#yf-bt-wrapper .alert-success, #yf-bt-wrapper .alert-warning { padding: 15p=
+x 0px; color: rgb(255, 255, 255); width: 100%; font-size: 14px; display: bl=
+ock; position: absolute; left: 0px; bottom: 0px; }
+
+#yf-bt-wrapper .alert-warning { background: rgb(240, 49, 12); }
+
+#yf-bt-wrapper .alert-success { background: rgb(79, 199, 57); }
+
+#yf-bt-wrapper .search-input { position: relative; color: rgb(17, 17, 17); =
+width: 248px; height: 36px; border: 1px solid rgb(230, 230, 230); backgroun=
+d: no-repeat padding-box padding-box rgb(255, 255, 255); padding-left: 10px=
+; padding-right: 40px; font-weight: 700; font-size: 14px; z-index: 10; }
+
+#yf-bt-wrapper .search-input:focus { background: rgb(255, 255, 255); outlin=
+e: 0px; border-color: rgb(230, 230, 230); }
+
+#yf-bt-wrapper .search-input + .search-btn { display: block; background-ima=
+ge: url("../img/assets/icon-search.svg"); background-repeat: no-repeat; bac=
+kground-position: center center; background-size: 18px; width: 35px; height=
+: 35px; position: absolute; right: 2px; top: 1px; z-index: 50; }
+
+#yf-bt-wrapper .checked-sites-section { display: none; width: auto; }
+
+#yf-bt-wrapper .search-input:focus + .search-btn, #yf-bt-wrapper.pro .searc=
+h-input:focus + .search-btn { background-repeat: no-repeat; background-posi=
+tion: center center; background-size: 18px; width: 35px; height: 35px; top:=
+ 2px; }
+
+#yf-bt-wrapper .search-input + .search-btn:hover { cursor: pointer; }
+
+#yf-bt-wrapper .search-input:focus + .search-btn { background-image: url(".=
+./img/assets/icon-search-blue-hover.svg"); }
+
+#yf-bt-wrapper.pro .search-input:focus + .search-btn { background-image: ur=
+l("../img/assets/icon-search-hover.svg"); }
+
+#yf-bt-wrapper .search-content { position: absolute; top: 7px; right: 8px; =
+width: auto; }
+
+#yf-bt-wrapper .checked-sites-section { position: relative; padding: 7px 10=
+px; background: linear-gradient(0deg, rgb(211, 211, 211) 0px, rgb(255, 255,=
+ 255) 8%, rgb(255, 255, 255) 91%, rgb(244, 244, 244) 100%) no-repeat paddin=
+g-box padding-box; }
+
+#yf-bt-wrapper .checked-sites-section .left { display: inline-block; font-s=
+ize: 11px; font-weight: 700; }
+
+#yf-bt-wrapper .checked-sites-section .right { font-weight: 700; float: rig=
+ht; color: rgb(255, 255, 255); }
+
+#yf-bt-wrapper .checked-sites-section .right span { font-size: 10px; backgr=
+ound: rgb(79, 199, 57); padding: 4px; display: inline-block; text-align: ce=
+nter; width: 12px; border-radius: 50%; }
+
+#yf-bt-wrapper .torrent-content { position: relative; padding: 0px; width: =
+366px; margin: 0px auto; }
+
+#yf-bt-wrapper .t-body > button { position: absolute; top: 256px; left: 120=
+px; }
+
+#yf-bt-wrapper .t-table { width: 100%; }
+
+#yf-bt-wrapper .t-table .t-header { position: relative; background: linear-=
+gradient(0deg, rgb(211, 211, 211) 0px, rgb(225, 225, 225) 8%, rgb(244, 244,=
+ 244) 91%, rgb(255, 255, 255) 100%) no-repeat padding-box padding-box; }
+
+#yf-bt-wrapper .t-table .t-header div { position: relative; margin: 10px 0p=
+x; text-align: center; color: rgb(23, 23, 23); font-size: 10px; font-weight=
+: 700; font-style: normal; font-stretch: normal; line-height: normal; lette=
+r-spacing: normal; }
+
+#yf-bt-wrapper .t-table .t-header div.t-name { width: auto; text-align: lef=
+t; color: rgb(51, 51, 51); padding: 9px; margin: 0px; display: none; }
+
+#yf-bt-wrapper .t-header .t-more::before { content: ""; background-image: u=
+rl("../img/assets/overflow-icon.svg"); background-repeat: no-repeat; width:=
+ 2px; height: 8px; display: block; margin: 0px auto; }
+
+#yf-bt-wrapper.free .t-body, #yf-bt-wrapper.pro .t-body { background: rgb(2=
+55, 255, 255); min-height: 311px; position: relative; overflow: auto; }
+
+#yf-bt-wrapper.free .t-body { max-height: 311px; }
+
+#yf-bt-wrapper.pro .t-body { max-height: 422px; }
+
+#yf-bt-wrapper .t-body .t-torrent { height: 60px; position: relative; text-=
+align: left; }
+
+#yf-bt-wrapper .t-body .t-row { background-color: rgb(255, 255, 255); borde=
+r-bottom: 2px solid rgb(242, 242, 242); position: relative; }
+
+#yf-bt-wrapper .t-body .t-row:hover { background-color: rgb(241, 241, 241);=
+ }
+
+#yf-bt-wrapper .t-body .t-row:nth-child(2n+1) { background-color: rgb(251, =
+251, 251); }
+
+#yf-bt-wrapper .t-body .t-torrent div { display: inline-block; }
+
+#yf-bt-wrapper .t-body .t-torrent .torrent-info-content { display: inline-b=
+lock; width: 250px; height: 60px; vertical-align: top; }
+
+#yf-bt-wrapper .t-body .t-torrent .torrent-info-list { height: 18px; paddin=
+g: 0px 15px; white-space: nowrap; }
+
+#yf-bt-wrapper .t-body .t-torrent .t-name-text { color: rgb(26, 26, 26); fo=
+nt-size: 12px; letter-spacing: -0.12px; font-weight: 700; font-style: norma=
+l; font-stretch: normal; line-height: 14px; width: 250px; cursor: pointer; =
+vertical-align: middle; white-space: nowrap; }
+
+#yf-bt-wrapper .torrent-link { color: rgb(26, 26, 26); text-decoration: non=
+e; display: inline-block; margin: 11px 0px 6px; line-height: normal; }
+
+#yf-bt-wrapper .t-body .t-torrent .overflow { width: 1px; height: 23px; bac=
+kground-image: url("../img/assets/rectangle.svg"); background-repeat: no-re=
+peat; vertical-align: middle; }
+
+#yf-bt-wrapper .t-body .t-torrent .t-quality-text, #yf-bt-wrapper .t-body .=
+t-torrent .t-type-icon { width: auto; font-size: 10px; line-height: normal;=
+ letter-spacing: normal; font-style: normal; font-stretch: normal; text-ali=
+gn: center; }
+
+#yf-bt-wrapper .t-body .t-torrent .t-type-icon { color: rgb(40, 40, 40); fo=
+nt-weight: 400; }
+
+#yf-bt-wrapper .t-body .t-torrent .t-quality-text { color: rgb(40, 40, 40);=
+ font-weight: 400; margin-right: 7px; vertical-align: middle; }
+
+#yf-bt-wrapper .t-body .t-torrent .t-lang-text, #yf-bt-wrapper .t-body .t-t=
+orrent .t-status-text { width: 67px; color: rgb(40, 40, 40); font-size: 10p=
+x; font-weight: 400; font-style: normal; font-stretch: normal; line-height:=
+ normal; letter-spacing: normal; text-align: center; height: auto; vertical=
+-align: middle; }
+
+#yf-bt-wrapper .t-body .t-torrent .t-arrow { width: 26px; vertical-align: m=
+iddle; text-align: center; height: 45px; float: right; margin-right: 15px; =
+}
+
+#yf-bt-wrapper .t-body .t-torrent .t-arrow .arrow-down, #yf-bt-wrapper .t-b=
+ody .t-torrent .t-arrow .arrow-up { cursor: pointer; z-index: 999; margin-t=
+op: 19px; background-repeat: no-repeat; background-position: center center;=
+ background-size: 13px; width: 27px; height: 27px; display: block; }
+
+#yf-bt-wrapper .t-body .t-torrent .t-arrow .arrow-down { background-image: =
+url("../img/assets/chevron-expand.svg"); }
+
+#yf-bt-wrapper .t-body .t-torrent .t-arrow .arrow-up { background-image: ur=
+l("../img/assets/chevron-collapse.svg"); }
+
+#yf-bt-wrapper .t-row .torrent-download-icon-gif, #yf-bt-wrapper .t-torrent=
+ .torrent-download-icon { background-size: 32px; width: 48px; height: 60px;=
+ background-position: center center; background-repeat: no-repeat; cursor: =
+pointer; }
+
+#yf-bt-wrapper .torrent-title { padding-left: 15px; padding-right: 15px; di=
+splay: inline-block; }
+
+#yf-bt-wrapper .t-torrent .torrent-download-icon { background-image: url(".=
+./img/assets/download-icon.gif"); border-right: 1px solid rgb(222, 222, 222=
+); display: inline-block !important; }
+
+#yf-bt-wrapper.free .t-torrent .torrent-download-icon:hover { background-im=
+age: url("../img/assets/dl-icon-blue-static.gif"); }
+
+#yf-bt-wrapper.pro .t-torrent .torrent-download-icon:hover { background-ima=
+ge: url("../img/assets/dl-icon-green-static.gif"); }
+
+#yf-bt-wrapper .t-row .torrent-download-icon-gif { position: absolute; top:=
+ 0px; left: 0px; z-index: 2; }
+
+#yf-bt-wrapper.free .t-row .torrent-download-icon-gif { background-image: u=
+rl("../img/assets/dl-icon-blue-loop.gif"); }
+
+#yf-bt-wrapper.pro .t-row .torrent-download-icon-gif { background-image: ur=
+l("../img/assets/dl-icon-green-loop.gif"); }
+
+#yf-bt-wrapper .t-row .torrent-download-overlay { position: absolute; width=
+: 100%; height: 100%; background: rgb(255, 255, 255); z-index: 1; top: 0px;=
+ left: 0px; opacity: 0.9; }
+
+#yf-bt-wrapper .t-row .torrent-download-overlay .download-text { text-align=
+: center; letter-spacing: -0.12px; color: rgb(0, 0, 0); font-weight: 700; f=
+ont-size: 12px; padding: 0px; line-height: 60px; margin: 0px 0px 0px 20px; =
+}
+
+#yf-bt-wrapper .tv-icon { width: 14px; height: 45px; vertical-align: middle=
+; }
+
+#yf-bt-wrapper .t-torrent-more { margin: 0px; height: 0px; overflow: hidden=
+; transition: height 0.4s linear 0s; }
+
+#yf-bt-wrapper .show-info { display: block; height: 60px; text-align: left;=
+ }
+
+#yf-bt-wrapper .t-torrent-more button { margin: 0px auto; display: block; }
+
+#yf-bt-wrapper .t-torrent-more .t-info-left { display: inline-block; width:=
+ 30px; margin: 10px 0px 10px 10px; padding-right: 8px; vertical-align: top;=
+ }
+
+#yf-bt-wrapper .t-torrent-more .t-info-right { font-size: 10px; display: in=
+line-block; margin: 0px; padding-left: 15px; padding-right: 15px; vertical-=
+align: top; border-left: 1px solid rgb(226, 226, 226); }
+
+#yf-bt-wrapper .t-torrent-more span { font-weight: 700; }
+
+#yf-bt-wrapper .t-low-availability span { color: rgb(254, 171, 61); vertica=
+l-align: middle; }
+
+#yf-bt-wrapper .t-low-availability img { vertical-align: middle; }
+
+#yf-bt-wrapper .t-low-availability { font-size: 11px; font-weight: 400; fon=
+t-style: normal; font-stretch: normal; letter-spacing: -0.5px; color: rgb(1=
+02, 102, 102); vertical-align: middle; margin-right: 7px; }
+
+#yf-bt-wrapper .t-torrent-secure, #yf-bt-wrapper .t-torrent-size { letter-s=
+pacing: -0.2px; color: rgb(102, 102, 102); margin-right: 7px; vertical-alig=
+n: middle; font-size: 11px; line-height: normal; font-style: normal; font-s=
+tretch: normal; }
+
+#yf-bt-wrapper .t-torrent-secure { font-weight: 700; }
+
+#yf-bt-wrapper .t-torrent-secure::before { content: " "; display: inline-bl=
+ock; background-image: url("../img/assets/icon-secure.png"); background-rep=
+eat: no-repeat; width: 14px; height: 14px; padding-left: 3px; vertical-alig=
+n: middle; }
+
+#yf-bt-wrapper .t-torrent-seeds { font-size: 11px; font-weight: 400; font-s=
+tyle: normal; font-stretch: normal; line-height: normal; letter-spacing: no=
+rmal; color: rgb(118, 184, 63); margin-right: 7px; vertical-align: middle; =
+}
+
+#yf-bt-wrapper .t-torrent-leeches { font-size: 11px; font-weight: 400; font=
+-style: normal; font-stretch: normal; line-height: normal; letter-spacing: =
+normal; color: rgb(0, 153, 255); margin-right: 7px; vertical-align: middle;=
+ }
+
+#yf-bt-wrapper .t-torrent-type { font-size: 11px; font-style: normal; font-=
+stretch: normal; line-height: normal; letter-spacing: -0.2px; color: rgb(10=
+2, 102, 102); vertical-align: middle; margin-right: 7px; }
+
+#yf-bt-wrapper .t-torrent-type b { text-transform: uppercase; }
+
+#yf-bt-wrapper .t-torrent-leeches img, #yf-bt-wrapper .t-torrent-seeds img =
+{ vertical-align: middle; padding-right: 2px; }
+
+#yf-bt-wrapper .t-torrent-filename, #yf-bt-wrapper .t-torrent-lang, #yf-bt-=
+wrapper .t-torrent-path, #yf-bt-wrapper .t-torrent-virus { font-size: 11px;=
+ font-weight: 400; font-style: normal; font-stretch: normal; line-height: n=
+ormal; letter-spacing: normal; color: rgb(102, 102, 102); height: 20px; }
+
+#yf-bt-wrapper .t-torrent-lang img { width: 10px; }
+
+#yf-bt-wrapper .t-torrent-filename img, #yf-bt-wrapper .t-torrent-lang img,=
+ #yf-bt-wrapper .t-torrent-path img, #yf-bt-wrapper .t-torrent-virus img { =
+padding-right: 4px; }
+
+#yf-bt-wrapper .footer { position: absolute; bottom: 0px; color: rgb(102, 1=
+02, 102); width: 365px; height: 25px; margin: 0px auto; padding: 0px; backg=
+round: linear-gradient(rgb(239, 239, 239) 0px, rgb(232, 232, 232) 100%); fo=
+nt-size: 10px; font-weight: 600; font-style: normal; font-stretch: normal; =
+line-height: normal; letter-spacing: normal; text-align: center; }
+
+#yf-bt-wrapper .footer span { padding: 0px 5px; line-height: 25px; font-wei=
+ght: 700; }
+
+#yf-bt-wrapper .feedbackButton { font-size: 9px; font-weight: 600; font-sty=
+le: normal; font-stretch: normal; line-height: normal; letter-spacing: norm=
+al; text-align: center; display: inline-block; cursor: pointer; position: a=
+bsolute; right: 16px; bottom: 5px; color: rgb(118, 184, 63); padding: 3px 5=
+px; border: 1px solid rgb(118, 184, 63); background: 0px 0px; }
+
+#yf-bt-wrapper .feedbackButton:hover { text-decoration: underline; }
+
+@media only screen and (max-height: 670px) {
+  .t-body .t-torrent { height: 36px; position: relative; }
+}
+
+#yf-bt-wrapper .nav-se-container { position: absolute; top: 0px; right: 0px=
+; background: rgb(255, 255, 255); height: 100%; width: 100%; text-align: ce=
+nter; padding: 0px; margin: 0px; display: none; }
+
+#yf-bt-wrapper .expiry-date { font-weight: 700; }
+
+#yf-bt-wrapper .nav-se-content { padding: 34px; }
+
+#yf-bt-wrapper .nav-se-content .settings-title { font-size: 16px; font-weig=
+ht: 700; letter-spacing: 0px; text-align: left; }
+
+#yf-bt-wrapper .nav-se-content .settings-title::before { content: ""; displ=
+ay: inline-block; background-image: url("../img/assets/icon-settings.svg");=
+ width: 20px; height: 20px; vertical-align: sub; margin-right: 5px; }
+
+#yf-bt-wrapper .nav-se-container .nav-se-icon { width: 60px; margin: 15px; =
+}
+
+#yf-bt-wrapper .nav-se-container .nav-se-title { font-size: 22px; font-weig=
+ht: 700; line-height: 28px; padding: 10px 0px; }
+
+#yf-bt-wrapper .nav-se-container .nav-se-text { color: rgb(51, 51, 51); fon=
+t-size: 14px; line-height: 20px; }
+
+#yf-bt-wrapper.free .nav-se-container .nav-se-btn { border-radius: 22px; bo=
+rder: none; padding: 10px 30px; margin: 10px 0px; color: rgb(255, 255, 255)=
+; font-size: 15px; line-height: 18px; background: rgb(19, 153, 252); }
+
+#yf-bt-wrapper.pro .nav-se-container .nav-se-btn { border-radius: 22px; bor=
+der: none; padding: 10px 30px; margin: 10px 0px; color: rgb(255, 255, 255);=
+ font-size: 15px; line-height: 18px; background: rgb(38, 166, 22); }
+
+#yf-bt-wrapper.free .nav-se-container .nav-se-btn:hover { cursor: pointer; =
+background: rgb(3, 117, 193); }
+
+#yf-bt-wrapper.pro .nav-se-container .nav-se-btn:hover { background: rgb(33=
+, 136, 19); }
+
+#yf-bt-wrapper .nav-se-container .license-input-key { color: rgb(51, 51, 51=
+); font-size: 14px; line-height: 20px; width: 100%; padding: 10px 0px; marg=
+in: 10px 0px; text-align: center; border-radius: 6px; border: 1px solid rgb=
+(193, 216, 174); display: block; background-color: rgb(255, 255, 255); }
+
+#yf-bt-wrapper .link, #yf-bt-wrapper .nav-se-container .license-buy-link { =
+color: rgb(57, 143, 230); text-decoration: underline; cursor: pointer; }
+
+#yf-bt-wrapper .torrent-overlay { top: 0px; left: 0px; position: absolute; =
+width: 100%; height: 100%; z-index: 1; overflow: hidden; }
+
+#yf-bt-wrapper .blur-out { filter: blur(2px); display: none; }
+
+#yf-bt-wrapper .table-message-container { display: none; text-align: center=
+; width: 280px; margin: 120px auto 0px; }
+
+#yf-bt-wrapper .table-message-container p { line-height: 25px; }
+
+#yf-bt-wrapper .tooltip { display: none; position: absolute; top: 10px; lef=
+t: 120px; background-color: rgb(255, 255, 255); border-left: 7px solid rgb(=
+19, 153, 252); width: 180px; box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 2=
+9px 0px; }
+
+#yf-bt-wrapper.pro .tooltip { border-left: 7px solid rgb(118, 184, 63); }
+
+#yf-bt-wrapper .tooltip-text { font-size: 11px; line-height: 17px; margin: =
+10px 15px; }
+
+#yf-bt-wrapper .tooltip-text::after { content: ""; position: absolute; top:=
+ -12px; margin-left: -15px; border-width: 6px; border-style: solid; border-=
+color: transparent transparent rgb(255, 255, 255); }
+
+#yf-bt-wrapper { color: rgb(17, 17, 17); font: unset; font-palette: unset; =
+font-synthesis: unset; forced-color-adjust: unset; text-orientation: unset;=
+ text-rendering: unset; -webkit-font-smoothing: unset; -webkit-locale: unse=
+t; -webkit-text-orientation: unset; -webkit-writing-mode: unset; writing-mo=
+de: unset; zoom: unset; accent-color: unset; place-content: unset; place-it=
+ems: unset; place-self: unset; alignment-baseline: unset; animation-composi=
+tion: unset; animation: unset; app-region: unset; appearance: unset; aspect=
+-ratio: unset; backdrop-filter: unset; backface-visibility: unset; backgrou=
+nd: unset; background-blend-mode: unset; baseline-shift: unset; baseline-so=
+urce: unset; block-size: unset; border-block: unset; border: unset; border-=
+radius: unset; border-collapse: unset; border-end-end-radius: unset; border=
+-end-start-radius: unset; border-inline: unset; border-start-end-radius: un=
+set; border-start-start-radius: unset; inset: unset; box-shadow: unset; box=
+-sizing: unset; break-after: unset; break-before: unset; break-inside: unse=
+t; buffered-rendering: unset; caption-side: unset; caret-color: unset; clea=
+r: unset; clip: unset; clip-path: unset; clip-rule: unset; color-interpolat=
+ion: unset; color-interpolation-filters: unset; color-rendering: unset; col=
+or-scheme: unset; columns: unset; column-fill: unset; gap: unset; column-ru=
+le: unset; column-span: unset; contain: unset; contain-intrinsic-block-size=
+: unset; contain-intrinsic-size: unset; contain-intrinsic-inline-size: unse=
+t; container: unset; content: unset; content-visibility: unset; counter-inc=
+rement: unset; counter-reset: unset; counter-set: unset; cursor: unset; cx:=
+ unset; cy: unset; d: unset; display: unset; dominant-baseline: unset; empt=
+y-cells: unset; fill: unset; fill-opacity: unset; fill-rule: unset; filter:=
+ unset; flex: unset; flex-flow: unset; float: unset; flood-color: unset; fl=
+ood-opacity: unset; grid: unset; grid-area: unset; height: unset; hyphenate=
+-character: unset; hyphenate-limit-chars: unset; hyphens: unset; image-orie=
+ntation: unset; image-rendering: unset; initial-letter: unset; inline-size:=
+ unset; inset-block: unset; inset-inline: unset; isolation: unset; letter-s=
+pacing: unset; lighting-color: unset; line-break: unset; list-style: unset;=
+ margin-block: unset; margin: unset; margin-inline: unset; marker: unset; m=
+ask: unset; mask-type: unset; math-depth: unset; math-shift: unset; math-st=
+yle: unset; max-block-size: unset; max-height: unset; max-inline-size: unse=
+t; max-width: unset; min-block-size: unset; min-height: unset; min-inline-s=
+ize: unset; min-width: unset; mix-blend-mode: unset; object-fit: unset; obj=
+ect-position: unset; object-view-box: unset; offset: unset; opacity: unset;=
+ order: unset; orphans: unset; outline: unset; outline-offset: unset; overf=
+low-anchor: unset; overflow-clip-margin: unset; overflow-wrap: unset; overf=
+low: unset; overscroll-behavior-block: unset; overscroll-behavior-inline: u=
+nset; overscroll-behavior: unset; padding-block: unset; padding: unset; pad=
+ding-inline: unset; page: unset; page-orientation: unset; paint-order: unse=
+t; perspective: unset; perspective-origin: unset; pointer-events: unset; po=
+sition: unset; quotes: unset; r: unset; resize: unset; rotate: unset; ruby-=
+position: unset; rx: unset; ry: unset; scale: unset; scroll-behavior: unset=
+; scroll-margin-block: unset; scroll-margin: unset; scroll-margin-inline: u=
+nset; scroll-padding-block: unset; scroll-padding: unset; scroll-padding-in=
+line: unset; scroll-snap-align: unset; scroll-snap-stop: unset; scroll-snap=
+-type: unset; scrollbar-gutter: unset; shape-image-threshold: unset; shape-=
+margin: unset; shape-outside: unset; shape-rendering: unset; size: unset; s=
+peak: unset; stop-color: unset; stop-opacity: unset; stroke: unset; stroke-=
+dasharray: unset; stroke-dashoffset: unset; stroke-linecap: unset; stroke-l=
+inejoin: unset; stroke-miterlimit: unset; stroke-opacity: unset; stroke-wid=
+th: unset; tab-size: unset; table-layout: unset; text-align: unset; text-al=
+ign-last: unset; text-anchor: unset; text-combine-upright: unset; text-deco=
+ration: unset; text-decoration-skip-ink: unset; text-emphasis: unset; text-=
+emphasis-position: unset; text-indent: unset; text-overflow: unset; text-sh=
+adow: unset; text-size-adjust: unset; text-transform: unset; text-underline=
+-offset: unset; text-underline-position: unset; white-space: unset; touch-a=
+ction: unset; transform: unset; transform-box: unset; transform-origin: uns=
+et; transform-style: unset; transition: unset; translate: unset; user-selec=
+t: unset; vector-effect: unset; vertical-align: unset; view-transition-name=
+: unset; visibility: unset; border-spacing: unset; -webkit-box-align: unset=
+; -webkit-box-decoration-break: unset; -webkit-box-direction: unset; -webki=
+t-box-flex: unset; -webkit-box-ordinal-group: unset; -webkit-box-orient: un=
+set; -webkit-box-pack: unset; -webkit-box-reflect: unset; -webkit-highlight=
+: unset; -webkit-line-break: unset; -webkit-line-clamp: unset; -webkit-mask=
+-box-image: unset; -webkit-mask: unset; -webkit-mask-composite: unset; -web=
+kit-print-color-adjust: unset; -webkit-rtl-ordering: unset; -webkit-ruby-po=
+sition: unset; -webkit-tap-highlight-color: unset; -webkit-text-combine: un=
+set; -webkit-text-decorations-in-effect: unset; -webkit-text-fill-color: un=
+set; -webkit-text-security: unset; -webkit-text-stroke: unset; -webkit-user=
+-drag: unset; -webkit-user-modify: unset; widows: unset; width: unset; will=
+-change: unset; word-break: unset; word-spacing: unset; x: unset; y: unset;=
+ z-index: unset; }
+
+#yf-bt-wrapper .upgradeProPanel { padding: 3px 2px; text-align: center; bac=
+kground: linear-gradient(0deg, rgb(2, 0, 36) 0px, rgb(233, 251, 255) 0px, r=
+gb(255, 255, 255) 100%); box-shadow: rgb(214, 214, 214) 0px 10px 10px -5px;=
+ }
+
+#yf-bt-wrapper .upgradeProPanelTitle { font-weight: 700; font-size: 18px; t=
+ext-align: center; margin: 13px 0px 12px; }
+
+#yf-bt-wrapper .upgradeProPanelList { text-align: left; }
+
+#yf-bt-wrapper .upgradeProPanelList div { padding: 2px 5px 2px 9px; display=
+: inline-block; width: 167px; position: relative; margin: 0px; vertical-ali=
+gn: text-top; }
+
+#yf-bt-wrapper .upgradeProPanelList div > p { font-size: 10px; font-weight:=
+ 700; position: relative; margin: 2px 1px 2px 0px; padding: 0px 0px 0px 20p=
+x; letter-spacing: 0px; line-height: 12px; }
+
+#yf-bt-wrapper .upgradeProPanelList div > p::before { content: ""; backgrou=
+nd-image: url("../img/assets/icon-check.svg"); width: 12px; height: 12px; b=
+ackground-position: center center; display: block; background-repeat: no-re=
+peat; background-size: contain; position: absolute; left: 4px; }
+
+#yf-bt-wrapper .proPanelBanner { width: 100%; background: rgb(255, 255, 255=
+); text-align: center; position: sticky; bottom: 0px; left: 0px; }
+
+#ys-bt-permission-banner { color: unset; font: unset; font-palette: unset; =
+font-synthesis: unset; forced-color-adjust: unset; text-orientation: unset;=
+ text-rendering: unset; -webkit-font-smoothing: unset; -webkit-locale: unse=
+t; -webkit-text-orientation: unset; -webkit-writing-mode: unset; writing-mo=
+de: unset; zoom: unset; accent-color: unset; place-content: unset; place-it=
+ems: unset; place-self: unset; alignment-baseline: unset; animation-composi=
+tion: unset; animation: unset; app-region: unset; appearance: unset; aspect=
+-ratio: unset; backdrop-filter: unset; backface-visibility: unset; backgrou=
+nd-attachment: unset; background-blend-mode: unset; background-clip: unset;=
+ background-color: rgb(255, 255, 255); background-image: unset; background-=
+origin: unset; background-position: unset; background-repeat: unset; backgr=
+ound-size: unset; baseline-shift: unset; baseline-source: unset; block-size=
+: unset; border-block: unset; border: unset; border-radius: unset; border-c=
+ollapse: unset; border-end-end-radius: unset; border-end-start-radius: unse=
+t; border-inline: unset; border-start-end-radius: unset; border-start-start=
+-radius: unset; bottom: 65px; box-shadow: unset; box-sizing: unset; break-a=
+fter: unset; break-before: unset; break-inside: unset; buffered-rendering: =
+unset; caption-side: unset; caret-color: unset; clear: unset; clip: unset; =
+clip-path: unset; clip-rule: unset; color-interpolation: unset; color-inter=
+polation-filters: unset; color-rendering: unset; color-scheme: unset; colum=
+ns: unset; column-fill: unset; gap: unset; column-rule: unset; column-span:=
+ unset; contain: unset; contain-intrinsic-block-size: unset; contain-intrin=
+sic-size: unset; contain-intrinsic-inline-size: unset; container: unset; co=
+ntent: unset; content-visibility: unset; counter-increment: unset; counter-=
+reset: unset; counter-set: unset; cursor: unset; cx: unset; cy: unset; d: u=
+nset; display: block; dominant-baseline: unset; empty-cells: unset; fill: u=
+nset; fill-opacity: unset; fill-rule: unset; filter: unset; flex: unset; fl=
+ex-flow: unset; float: unset; flood-color: unset; flood-opacity: unset; gri=
+d: unset; grid-area: unset; height: auto; hyphenate-character: unset; hyphe=
+nate-limit-chars: unset; hyphens: unset; image-orientation: unset; image-re=
+ndering: unset; initial-letter: unset; inline-size: unset; inset-block: uns=
+et; inset-inline: unset; isolation: unset; left: 5px; letter-spacing: unset=
+; lighting-color: unset; line-break: unset; list-style: unset; margin-block=
+: unset; margin: unset; margin-inline: unset; marker: unset; mask: unset; m=
+ask-type: unset; math-depth: unset; math-shift: unset; math-style: unset; m=
+ax-block-size: unset; max-height: unset; max-inline-size: unset; max-width:=
+ unset; min-block-size: unset; min-height: unset; min-inline-size: unset; m=
+in-width: unset; mix-blend-mode: unset; object-fit: unset; object-position:=
+ unset; object-view-box: unset; offset: unset; opacity: unset; order: unset=
+; orphans: unset; outline: unset; outline-offset: unset; overflow-anchor: u=
+nset; overflow-clip-margin: unset; overflow-wrap: unset; overflow: unset; o=
+verscroll-behavior-block: unset; overscroll-behavior-inline: unset; overscr=
+oll-behavior: unset; padding-block: unset; padding: unset; padding-inline: =
+unset; page: unset; page-orientation: unset; paint-order: unset; perspectiv=
+e: unset; perspective-origin: unset; pointer-events: unset; position: absol=
+ute; quotes: unset; r: unset; resize: unset; right: unset; rotate: unset; r=
+uby-position: unset; rx: unset; ry: unset; scale: unset; scroll-behavior: u=
+nset; scroll-margin-block: unset; scroll-margin: unset; scroll-margin-inlin=
+e: unset; scroll-padding-block: unset; scroll-padding: unset; scroll-paddin=
+g-inline: unset; scroll-snap-align: unset; scroll-snap-stop: unset; scroll-=
+snap-type: unset; scrollbar-gutter: unset; shape-image-threshold: unset; sh=
+ape-margin: unset; shape-outside: unset; shape-rendering: unset; size: unse=
+t; speak: unset; stop-color: unset; stop-opacity: unset; stroke: unset; str=
+oke-dasharray: unset; stroke-dashoffset: unset; stroke-linecap: unset; stro=
+ke-linejoin: unset; stroke-miterlimit: unset; stroke-opacity: unset; stroke=
+-width: unset; tab-size: unset; table-layout: unset; text-align: unset; tex=
+t-align-last: unset; text-anchor: unset; text-combine-upright: unset; text-=
+decoration: unset; text-decoration-skip-ink: unset; text-emphasis: unset; t=
+ext-emphasis-position: unset; text-indent: unset; text-overflow: unset; tex=
+t-shadow: unset; text-size-adjust: unset; text-transform: unset; text-under=
+line-offset: unset; text-underline-position: unset; white-space: unset; top=
+: unset; touch-action: unset; transform: unset; transform-box: unset; trans=
+form-origin: unset; transform-style: unset; transition: unset; translate: u=
+nset; user-select: unset; vector-effect: unset; vertical-align: unset; view=
+-transition-name: unset; visibility: unset; border-spacing: unset; -webkit-=
+box-align: unset; -webkit-box-decoration-break: unset; -webkit-box-directio=
+n: unset; -webkit-box-flex: unset; -webkit-box-ordinal-group: unset; -webki=
+t-box-orient: unset; -webkit-box-pack: unset; -webkit-box-reflect: unset; -=
+webkit-highlight: unset; -webkit-line-break: unset; -webkit-line-clamp: uns=
+et; -webkit-mask-box-image: unset; -webkit-mask: unset; -webkit-mask-compos=
+ite: unset; -webkit-print-color-adjust: unset; -webkit-rtl-ordering: unset;=
+ -webkit-ruby-position: unset; -webkit-tap-highlight-color: unset; -webkit-=
+text-combine: unset; -webkit-text-decorations-in-effect: unset; -webkit-tex=
+t-fill-color: unset; -webkit-text-security: unset; -webkit-text-stroke: uns=
+et; -webkit-user-drag: unset; -webkit-user-modify: unset; widows: unset; wi=
+dth: auto; will-change: unset; word-break: unset; word-spacing: unset; x: u=
+nset; y: unset; z-index: 99999999; }
+
+.permission-overlay { display: block; width: 100%; height: 100%; background=
+: rgba(0, 0, 0, 0.5); position: absolute; left: 0px; top: 0px; }
+
+#ys-bt-permission-banner .container { display: block; width: 295px; height:=
+ auto; padding: 20px 27px; border-width: 1px 1px 1px 7px; border-style: sol=
+id; border-color: rgb(230, 230, 230) rgb(230, 230, 230) rgb(230, 230, 230) =
+rgb(19, 153, 252); border-image: initial; border-radius: 1px; text-align: l=
+eft; background: rgb(255, 255, 255); z-index: 1; font-family: Arial, sans-s=
+erif; }
+
+#yf-bt-wrapper.pro #ys-bt-permission-banner .container { border-left: 7px s=
+olid rgb(73, 184, 4); }
+
+#ys-bt-permission-banner .container::after { content: ""; position: absolut=
+e; bottom: -18px; margin-left: -10px; border-width: 10px; border-style: sol=
+id; border-color: rgb(255, 255, 255) transparent transparent; }
+
+#ys-bt-permission-banner p { display: block; font-size: 12px; line-height: =
+16px; font-family: Arial, sans-serif; margin: 0px auto; text-align: left; c=
+olor: rgb(0, 0, 0); }
+
+#ys-bt-permission-banner .per-btn { font-size: 18px; line-height: 28px; let=
+ter-spacing: 0px; color: rgb(19, 153, 252); border: none; background: 0px 0=
+px; font-weight: 700; padding: 0px; margin: 0px 0px 10px; cursor: pointer; =
+}
+
+#yf-bt-wrapper.pro .per-btn { color: rgb(0, 190, 10); }
+
+#ys-bt-permission-banner .per-btn:hover { color: rgb(17, 120, 193); }
+
+#yf-bt-wrapper.pro .per-btn:hover { color: rgb(0, 190, 10); }
+
+#ys-bt-permission-banner .per-link { display: block; font-size: 12px; line-=
+height: 20px; font-family: Arial, sans-serif; margin: 10px 0px; text-align:=
+ left; color: rgb(57, 143, 230); text-decoration: underline; cursor: pointe=
+r; }
+
+#ys-bt-permission-banner .per-link:hover { color: rgb(15, 113, 155); }
+
+#ys-bt-permission-banner .per-x { font-size: 24px; position: absolute; top:=
+ 0px; right: 5px; color: rgb(102, 102, 102); cursor: pointer; }
+
+#yf-bt-wrapper .upgrade-to-pro-button-2, #yf-bt-wrapper.free .upgrade-to-pr=
+o-button-2 { font-size: 13px; border-radius: 16px; width: 166px; height: 30=
+px; letter-spacing: 0px; color: rgb(255, 255, 255); display: inline-block; =
+line-height: 30px; text-decoration: none; margin: 10px 4px; }
+
+#yf-bt-wrapper.free .upgrade-to-pro-button-2 { background: no-repeat paddin=
+g-box padding-box rgb(19, 153, 252); }
+
+#yf-bt-wrapper.free .upgrade-to-pro-button-2:hover { background: no-repeat =
+padding-box padding-box rgb(4, 145, 245); }
+
+#yf-bt-wrapper .upgrade-to-pro-button-2 { background: no-repeat padding-box=
+ padding-box rgb(38, 166, 0); }
+
+#yf-bt-wrapper .upgrade-to-pro-button-2:hover { background: no-repeat paddi=
+ng-box padding-box rgb(35, 148, 1); }
+
+#yf-bt-wrapper .nav { background-color: rgb(255, 255, 255); width: 366px; h=
+eight: 55px; color: rgb(102, 102, 102); text-align: center; }
+
+#yf-bt-wrapper .nav .nav-btn { color: rgb(17, 17, 17); position: relative; =
+font-size: 11px; font-weight: 700; width: 72px; height: 55px; border: none;=
+ background-color: rgb(255, 255, 255); }
+
+#yf-bt-wrapper .nav .nav-btn.selected { color: rgb(19, 153, 252); }
+
+#yf-bt-wrapper.pro .nav .nav-btn.selected { color: rgb(66, 167, 4); }
+
+#yf-bt-wrapper .nav .nav-btn:active, #yf-bt-wrapper .nav .nav-btn:hover { c=
+olor: rgb(19, 153, 252); cursor: pointer; }
+
+#yf-bt-wrapper.pro .nav .nav-btn:active, #yf-bt-wrapper.pro .nav .nav-btn:h=
+over { color: rgb(66, 167, 4); }
+
+#yf-bt-wrapper .nav .nav-btn::before { content: ""; display: block; width: =
+20px; height: 20px; margin: 2px auto 8px; }
+
+#btnSync::before { background-image: url("../img/assets/icon-sync.svg"); }
+
+#btnLicense::before { background-image: url("../img/assets/icon-key.svg"); =
+}
+
+#btnHome::before { background-image: url("../img/assets/icon-home.svg"); }
+
+#btnFeedback::before { background-image: url("../img/assets/icon-feedback.s=
+vg"); }
+
+#btnSettings::before { background-image: url("../img/assets/icon-settings.s=
+vg"); }
+
+#yf-bt-wrapper .spinner { margin: 50px auto 0px; width: 70px; text-align: c=
+enter; }
+
+#yf-bt-wrapper .license-spinner { margin: 0px auto; width: 70px; text-align=
+: center; display: none; }
+
+#yf-bt-wrapper .license-spinner > div, #yf-bt-wrapper .spinner > div { widt=
+h: 16px; height: 16px; margin: 2px; background-color: rgb(204, 204, 204); b=
+order-radius: 100%; display: inline-block; animation: 1.4s ease-in-out 0s i=
+nfinite normal both running sk-bouncedelay; }
+
+#yf-bt-wrapper .s-arrow .arrow-down, #yf-bt-wrapper .s-arrow .arrow-up { z-=
+index: 999; background-repeat: no-repeat; background-position: center cente=
+r; background-size: 13px; width: 27px; height: 27px; cursor: pointer; }
+
+#yf-bt-wrapper .license-spinner .bounce1, #yf-bt-wrapper .spinner .bounce1 =
+{ animation-delay: -0.32s; }
+
+#yf-bt-wrapper .license-spinner .bounce2, #yf-bt-wrapper .spinner .bounce2 =
+{ animation-delay: -0.16s; }
+
+@-webkit-keyframes sk-bouncedelay {=20
+  0%, 100%, 80% { transform: scale(0); }
+  40% { transform: scale(1); }
+}
+
+@keyframes sk-bouncedelay {=20
+  0%, 100%, 80% { transform: scale(0); }
+  40% { transform: scale(1); }
+}
+
+#yf-bt-wrapper .s-table { margin: 0px 25px 25px; }
+
+#yf-bt-wrapper .s-row { text-align: left; border-width: 1px; border-style: =
+solid; border-color: rgb(227, 227, 227); }
+
+#yf-bt-wrapper .s-row .s-title { cursor: pointer; padding: 10px; background=
+-color: rgb(247, 247, 247); position: relative; font-weight: 700; font-size=
+: 13px; line-height: 20px; }
+
+#yf-bt-wrapper .s-row .s-content { padding: 15px 20px; text-align: center; =
+display: none; overflow: auto; }
+
+#yf-bt-wrapper .s-row .show-content { max-height: 135px; display: block !im=
+portant; }
+
+#yf-bt-wrapper .s-row .rate-text { text-align: center; font-size: 12px; mar=
+gin: 5px 0px; }
+
+#yf-bt-wrapper .settings-container { overflow: auto; }
+
+#yf-bt-wrapper .s-arrow { display: inline-block; position: absolute; right:=
+ 6px; top: 7px; cursor: pointer; }
+
+#yf-bt-wrapper .s-arrow .arrow-down { background-image: url("../img/assets/=
+chevron-expand.svg"); display: inline-block; }
+
+#yf-bt-wrapper .s-arrow .arrow-up { background-image: url("../img/assets/ch=
+evron-collapse.svg"); display: inline-block; }
+
+#yf-bt-wrapper .rating { width: 100%; text-align: center; }
+
+#yf-bt-wrapper .rating-star { font-size: 40px; line-height: 44px; color: rg=
+b(209, 209, 209); cursor: pointer; }
+
+#yf-bt-wrapper .rating-star.orange-star { color: rgb(255, 206, 0); }
+
+#yf-bt-wrapper .rating-btn { margin: 10px 0px 0px; }
+
+#yf-bt-wrapper .about-content { font-size: 12px; text-align: left !importan=
+t; }
+
+#yf-bt-wrapper .about-version { color: rgb(62, 62, 62); font-size: 13px; fo=
+nt-weight: 700; margin-bottom: 10px; }
+
+#yf-bt-wrapper .about-new ul li { color: rgb(137, 137, 137); font-size: 12p=
+x; margin-top: 5px; margin-bottom: 5px; }
+
+#yf-bt-wrapper .contact-text, #yf-bt-wrapper .faq-text, #yf-bt-wrapper .pol=
+icy-text { color: rgb(137, 137, 137); text-align: left; font-size: 12px; }
+
+#yf-bt-wrapper .contact-text a, #yf-bt-wrapper .faq-text a, #yf-bt-wrapper =
+.policy-text a { color: rgb(0, 153, 255); }
+
+#yf-bt-wrapper .faq-text p { font-size: 12px; }
+
+#yf-bt-wrapper .faq-text ol { padding-left: 25px; }
+
+#yf-bt-wrapper .faq-text ol li { margin-bottom: 10px; }
+------MultipartBoundary--xX7hEO0lITmfoodfWzkG2KetwUGq0gF6ms7TcrOhKN----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/ts-free-logo.png
+
+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
+
+------MultipartBoundary--xX7hEO0lITmfoodfWzkG2KetwUGq0gF6ms7TcrOhKN----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-sync.svg
+
+<svg id=3D"icon-sync" xmlns=3D"http://www.w3.org/2000/svg" width=3D"20" hei=
+ght=3D"20" viewBox=3D"0 0 20 20">
+  <rect id=3D"Rectangle_89" data-name=3D"Rectangle 89" width=3D"20" height=
+=3D"20" transform=3D"translate(0)" fill=3D"#f2f2f2" opacity=3D"0"/>
+  <path id=3D"refresh" d=3D"M5.488,8.115h-1.1V8.106a5.526,5.526,0,0,1,9.431=
+-3.984l1.807-1.743A8,8,0,0,0,9.931,0,8.094,8.094,0,0,0,1.869,8.114H.762c-.6=
+79,0-.956.454-.617,1.009l2.363,2.343c.469.469.751.483,1.234,0L6.105,9.123c.=
+339-.555.061-1.008-.617-1.008Z" transform=3D"translate(0 1.895)" fill=3D"#5=
+16873"/>
+  <path id=3D"refresh-2" data-name=3D"refresh" d=3D"M19.856,7.14,17.492,4.8=
+c-.482-.482-.78-.453-1.233,0L13.9,7.14c-.339.554-.063,1.008.616,1.008h1.093=
+a5.526,5.526,0,0,1-9.43,3.944L4.368,13.833A8.05,8.05,0,0,0,18.129,8.149h1.1=
+09c.679,0,.956-.455.617-1.009Z" transform=3D"translate(0 1.895)" fill=3D"#f=
+9c93c"/>
+</svg>
+
+------MultipartBoundary--xX7hEO0lITmfoodfWzkG2KetwUGq0gF6ms7TcrOhKN----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-success.svg
+
+<svg id=3D"icon_success" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=
+=3D"http://www.w3.org/1999/xlink" width=3D"64" height=3D"64" viewBox=3D"0 0=
+ 64 64">
+  <defs>
+    <linearGradient id=3D"linear-gradient" x1=3D"0.369" y1=3D"0.238" x2=3D"=
+0.13" y2=3D"0.861" gradientUnits=3D"objectBoundingBox">
+      <stop offset=3D"0" stop-color=3D"#fff"/>
+      <stop offset=3D"1" stop-color=3D"#ebebeb"/>
+    </linearGradient>
+  </defs>
+  <g id=3D"Ellipse_18" data-name=3D"Ellipse 18" stroke=3D"#48b603" stroke-w=
+idth=3D"4" fill=3D"url(#linear-gradient)">
+    <circle cx=3D"32" cy=3D"32" r=3D"32" stroke=3D"none"/>
+    <circle cx=3D"32" cy=3D"32" r=3D"30" fill=3D"none"/>
+  </g>
+  <g id=3D"check" transform=3D"translate(-456.798 -355.419)">
+    <rect id=3D"Rectangle_126" data-name=3D"Rectangle 126" width=3D"3.805" =
+height=3D"30.439" rx=3D"1.902" transform=3D"translate(502.923 376) rotate(4=
+5)" fill=3D"#48b603"/>
+    <rect id=3D"Rectangle_128" data-name=3D"Rectangle 128" width=3D"4" heig=
+ht=3D"17.219" rx=3D"2" transform=3D"translate(486.988 397.454) rotate(135)"=
+ fill=3D"#48b603"/>
+  </g>
+</svg>
+
+------MultipartBoundary--xX7hEO0lITmfoodfWzkG2KetwUGq0gF6ms7TcrOhKN----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-key2.svg
+
+<svg id=3D"icon.Key" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"ht=
+tp://www.w3.org/1999/xlink" width=3D"64" height=3D"64" viewBox=3D"0 0 64 64=
+">
+  <defs>
+    <radialGradient id=3D"radial-gradient" cx=3D"0.5" cy=3D"0.5" r=3D"0.5" =
+gradientUnits=3D"objectBoundingBox">
+      <stop offset=3D"0" stop-color=3D"#e8e7e1"/>
+      <stop offset=3D"1" stop-color=3D"#fff"/>
+    </radialGradient>
+    <linearGradient id=3D"linear-gradient" x1=3D"0.5" y1=3D"0.238" x2=3D"0.=
+273" y2=3D"0.697" gradientUnits=3D"objectBoundingBox">
+      <stop offset=3D"0" stop-color=3D"#f9c93c"/>
+      <stop offset=3D"1" stop-color=3D"#d9a300"/>
+    </linearGradient>
+    <linearGradient id=3D"linear-gradient-2" x1=3D"0.5" x2=3D"1.315" y2=3D"=
+1.307" gradientUnits=3D"objectBoundingBox">
+      <stop offset=3D"0" stop-color=3D"#dda20a"/>
+      <stop offset=3D"1" stop-color=3D"#664a00"/>
+    </linearGradient>
+  </defs>
+  <rect id=3D"Rectangle_90" data-name=3D"Rectangle 90" width=3D"64" height=
+=3D"64" transform=3D"translate(0 0)" fill=3D"#f2f2f2" opacity=3D"0"/>
+  <circle id=3D"Ellipse_17" data-name=3D"Ellipse 17" cx=3D"29.5" cy=3D"29.5=
+" r=3D"29.5" transform=3D"translate(3 2)" fill=3D"url(#radial-gradient)"/>
+  <g id=3D"Group_135" data-name=3D"Group 135" transform=3D"translate(0 0)">
+    <path id=3D"Path_8" data-name=3D"Path 8" d=3D"M60.055,50.058c-.374-.344=
+-4.061-.106-4.061-.106l-.042-3.9-1.8-2.062-4.275-.07,0-.006h0c-.018.058,0-4=
+.291,0-4.291l-2-1.446s-3.882-.114-3.914-.144l-.312-3.987L40.051,29.79A21.09=
+2,21.092,0,1,0,29.984,39.929L53.871,63.96s10.113.028,10.113.024L64,53.777s-=
+1.588-1.548-3.946-3.72ZM17,22.021a5.008,5.008,0,1,1,4.979-5.007A4.992,4.992=
+,0,0,1,17,22.021Z" transform=3D"translate(0 0)" fill=3D"url(#linear-gradien=
+t)"/>
+    <path id=3D"Path_9" data-name=3D"Path 9" d=3D"M12,5a7,7,0,1,0,7,7A7,7,0=
+,0,0,12,5Zm0,10a3,3,0,1,1,3-3A3,3,0,0,1,12,15Z" transform=3D"translate(4.99=
+9 4.999)" fill=3D"#ca9f30"/>
+    <path id=3D"Path_10" data-name=3D"Path 10" d=3D"M20.667,18.4a21.031,21.=
+031,0,0,1-6.541,3.872L37.873,45.6h10Z" transform=3D"translate(14.122 18.393=
+)" fill=3D"url(#linear-gradient-2)"/>
+  </g>
+</svg>
+
+------MultipartBoundary--xX7hEO0lITmfoodfWzkG2KetwUGq0gF6ms7TcrOhKN----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-alert.svg
+
+<svg id=3D"icon_alert" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"=
+http://www.w3.org/1999/xlink" width=3D"64" height=3D"64" viewBox=3D"0 0 64 =
+64">
+  <defs>
+    <linearGradient id=3D"linear-gradient" x1=3D"0.369" y1=3D"0.238" x2=3D"=
+0.13" y2=3D"0.861" gradientUnits=3D"objectBoundingBox">
+      <stop offset=3D"0" stop-color=3D"#fff"/>
+      <stop offset=3D"1" stop-color=3D"#ebebeb"/>
+    </linearGradient>
+  </defs>
+  <g id=3D"Ellipse_19" data-name=3D"Ellipse 19" stroke=3D"#f59e08" stroke-w=
+idth=3D"4" fill=3D"url(#linear-gradient)">
+    <circle cx=3D"32" cy=3D"32" r=3D"32" stroke=3D"none"/>
+    <circle cx=3D"32" cy=3D"32" r=3D"30" fill=3D"none"/>
+  </g>
+  <g id=3D"check" transform=3D"translate(-591.395 105.529) rotate(-45)">
+    <rect id=3D"Rectangle_126" data-name=3D"Rectangle 126" width=3D"4" heig=
+ht=3D"25.485" rx=3D"2" transform=3D"translate(502.923 376) rotate(45)" fill=
+=3D"#f59e08"/>
+    <rect id=3D"Rectangle_128" data-name=3D"Rectangle 128" width=3D"4" heig=
+ht=3D"3.805" rx=3D"1.902" transform=3D"translate(485.504 398.799) rotate(13=
+5)" fill=3D"#f59e08"/>
+  </g>
+</svg>
+
+------MultipartBoundary--xX7hEO0lITmfoodfWzkG2KetwUGq0gF6ms7TcrOhKN----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-feedback.svg
+
+<svg id=3D"icon-feedback" xmlns=3D"http://www.w3.org/2000/svg" width=3D"20.=
+022" height=3D"20" viewBox=3D"0 0 20.022 20">
+  <rect id=3D"Rectangle_92" data-name=3D"Rectangle 92" width=3D"20" height=
+=3D"20" transform=3D"translate(0.022)" fill=3D"#f2f2f2" opacity=3D"0"/>
+  <g id=3D"Group_137" data-name=3D"Group 137" transform=3D"translate(-2.01 =
+-2)">
+    <path id=3D"Path_11" data-name=3D"Path 11" d=3D"M14.267,4.014,18.227,7.=
+98,5.955,20.269,1.994,16.3,14.267,4.014Z" transform=3D"translate(1.268 0.47=
+8)" fill=3D"#f9c93c"/>
+    <path id=3D"Path_58" data-name=3D"Path 58" d=3D"M0,0,15.309-.014V1.461L=
+0,1.476Z" transform=3D"translate(18.042 9.914) rotate(135)" fill=3D"#fbda7b=
+"/>
+    <path id=3D"Path_12" data-name=3D"Path 12" d=3D"M1.995,16.832l1.034,1.0=
+34L14.5,5.791l-1.1-.366Z" transform=3D"translate(1.267 -0.05)" fill=3D"#d3a=
+a40"/>
+    <path id=3D"Path_13" data-name=3D"Path 13" d=3D"M25.216.358l2.316,2.315=
+a1.13,1.13,0,0,1,0,1.635L25,6.843,20.992,2.935,23.527.4A1.194,1.194,0,0,1,2=
+5.216.358Z" transform=3D"translate(-5.872 1.971)" fill=3D"#e19178"/>
+    <path id=3D"Path_14" data-name=3D"Path 14" d=3D"M24.152.984a1.194,1.194=
+,0,0,1,1.689,0l1.692,1.691h0L25.216.358A1.194,1.194,0,0,0,23.527.4L20.992,2=
+.935l.625.583L24.152.984Z" transform=3D"translate(-5.872 1.971)" fill=3D"#c=
+b836d"/>
+    <path id=3D"Path_15" data-name=3D"Path 15" d=3D"M18.5,5.89l3.964,3.964L=
+24.337,7.98,20.371,4.014,18.242,6.142l0,0Z" transform=3D"translate(-4.842 0=
+.478)" fill=3D"#eceeee"/>
+    <path id=3D"Path_16" data-name=3D"Path 16" d=3D"M1.245,23.666-.008,28.8=
+84,5.21,27.631Z" transform=3D"translate(2.018 -6.885)" fill=3D"#dbdee0"/>
+    <path id=3D"Path_17" data-name=3D"Path 17" d=3D"M1.243,30.011H.292l-.3,=
+1.251,1.251-.3Z" transform=3D"translate(2.018 -9.262)" fill=3D"#a0a0a0"/>
+  </g>
+</svg>
+
+------MultipartBoundary--xX7hEO0lITmfoodfWzkG2KetwUGq0gF6ms7TcrOhKN------
