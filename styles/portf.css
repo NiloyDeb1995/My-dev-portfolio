@@ -59,9 +59,9 @@ nav a {
 .banner-cont {
   max-width: 500px;
 }
-.bannner .pro-pic {
+.banner-pro-pic {
   width: 500px;
-  align-content: end;
+
 }
 .banner-greeting {
   font-size: 45px;
@@ -105,7 +105,7 @@ main section {
 .about-info {
   text-align: center;
 }
-.info-descripstion {
+.info-description {
   font-size: 20px;
 }
 .info-title {
@@ -155,12 +155,36 @@ main section {
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 20px;
-  margin-top: 0px ;
+  margin-top: 0px;
 }
 .resume-container hr {
   margin: 30px;
 }
-.download-cv{
-    text-align: center;
-    margin-top: 50px;
+.download-cv {
+  text-align: center;
+  margin-top: 50px;
+}
+/*footer style*/
+footer {
+  display: flex;
+  background-color: #fff8f3;
+  padding: 130px 230px;
+  margin-top: 80px;
+  gap: 100px;
+}
+.social-links a{
+    margin-left: 25px;
+}
+.footer-column {
+  width: 50%;
+}
+.contact input[type="text"], .contact input[type="email"], textarea {
+  display: block;
+  margin-bottom: 24px;
+  padding: 18px 35px;
+  color: #757575;
+  border-radius: 5px;
+  background: #fff;
+  border: 0;
+  width: 100% ;
 }
